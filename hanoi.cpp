@@ -7,10 +7,7 @@ using namespace std;
 //move disc 1 A to c ACB
 //move disc 2 A to b ABC
 //move disc 1 C to b CBA
-//move disc 3 A to c ACB
-//move disc 1 B to a BAC
-//move disc 2 B to c BCA
-//move disc 1 A to c ACB
+
 
 
 int moves(0);
